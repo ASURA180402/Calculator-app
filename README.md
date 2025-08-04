@@ -15,3 +15,9 @@ A simple and interactive calculator built using **HTML**, **CSS**, and **JavaScr
 - HTML5
 - CSS3
 - JavaScript
+
+Output:
+https://screenrec.com/share/pPTqlGDeCc
+
+For responsive and keyboard output:
+https://screenrec.com/share/2ZrkQxTjoH
