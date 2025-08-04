@@ -1,2 +1,17 @@
-# Calculator-app
-This repo is for the basic calulator using 3d animation and sound effects using HTML, CSS, and JS.
+# 🧮 Calculator App
+
+A simple and interactive calculator built using **HTML**, **CSS**, and **JavaScript**. This project supports basic arithmetic operations and features a clean 3D-styled UI with sound effects and keyboard input support.
+
+## 🚀 Features
+
+- ✨ 3D-style button interface
+- 🔊 Sound effects for button clicks
+- ⌨️ Keyboard support for input
+- 💡 Light/Dark mode toggle
+- 📱 Responsive design
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
